@@ -2,7 +2,7 @@
 - 👀 &nbsp; I’m interested in Art
 - 💻 &nbsp; I currently work as an UX/UI Designer
 - 🌱 &nbsp; I’m currently learning to be a better writer.
-- 💞️  &nbsp;I’m looking to collaborate on projects that need UI/UX help.
+- 💞️ &nbsp; I’m looking to collaborate on projects that need UI/UX help.
 - 📫 &nbsp; Reach me at verastegui.peter@gmail.com
 
 <!---
